@@ -44,14 +44,6 @@
 ## 📈 GitHub at a glance
 
 <p align="center">
-  <!-- Stats card (hosted by anuraghazra/github-readme-stats) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=George-Kalash&show_icons=true&include_all_commits=true&rank_icon=github"
-    alt="George's GitHub stats"
-  />
-</p>
-
-<p align="center">
   <!-- Top languages (compact) -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Kalash&layout=compact&langs_count=8"
