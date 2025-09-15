@@ -15,7 +15,9 @@
 ---
 
 ## 🚀 Featured Work
-
+- **Vision** — a public corporation finance analyzer (Python, pandas, edgartools).  
+  <a href="https://github.com/George-Kalash/Vision">Repo</a>
+  
 - **DegreeFlow** — a university progress tracker (TypeScript-first).  
   <a href="https://github.com/George-Kalash/DegreeFlow">Repo</a>
 
@@ -28,6 +30,7 @@
 ---
 
 ## 🔭 Current Focus
+- Assembling the toolset for **Vision**.
 - Improving **DegreeFlow** UX and feature set.  
 - Iterating on **NBA** model accuracy goals (feature engineering + evaluation).  
 - Small utilities and experiments collected in <a href="https://github.com/George-Kalash/main">main</a>.
