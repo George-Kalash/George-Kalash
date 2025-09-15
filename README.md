@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm George 👋</h1>
 <p align="center">
-  Math + software. I build practical tools for students and sports analytics models.
+  Math Finance + software. I build practical tools for students and sports analytics models.
 </p>
 
 <p align="center">
