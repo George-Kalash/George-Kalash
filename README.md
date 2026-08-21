@@ -18,8 +18,8 @@
 - **Vision** — a public corporation finance analyzer (Python, pandas, edgartools).  
   <a href="https://github.com/George-Kalash/Vision">Repo</a>
   
-- **DegreeFlow** — a university progress tracker (TypeScript-first).  
-  <a href="https://github.com/George-Kalash/DegreeFlow">Repo</a>
+- **Federal Funds Rate Prediction Model** — Random Forest Prediction Model (Python, pandas, scikit‑learn).  
+  <a href="https://github.com/George-Kalash/FED_RATE_PREDICTION_MODEL">Repo</a>
 
 - **Watopoly (CS246 final)** — Monopoly-like C++ game project.  
   <a href="https://github.com/George-Kalash/_Watopoly_">Repo</a>
