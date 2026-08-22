@@ -15,11 +15,12 @@
 ---
 
 ## 🚀 Featured Work
-- **Vision** — a public corporation finance analyzer (Python, pandas, edgartools).  
-  <a href="https://github.com/George-Kalash/Vision">Repo</a>
   
 - **Federal Funds Rate Prediction Model** — Random Forest Prediction Model (Python, pandas, scikit‑learn).  
   <a href="https://github.com/George-Kalash/FED_RATE_PREDICTION_MODEL">Repo</a>
+
+- **Vision** — a public corporation finance analyzer (Python, pandas, edgartools).  
+  <a href="https://github.com/George-Kalash/Vision">Repo</a>
 
 - **Watopoly (CS246 final)** — Monopoly-like C++ game project.  
   <a href="https://github.com/George-Kalash/_Watopoly_">Repo</a>
